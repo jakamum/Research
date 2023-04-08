@@ -4,18 +4,18 @@
 
 ### Order of Evolution and Deviation
 
-Spiral
-Sprials
-Jab_Worm_Spiral
-Jabber_Spiral
-Circling Words - ChatGBT Exclusively
-Let_There_be_Mass
-Let_There_Be_Spiral
-Let_there_be_Spiral_God
-Let_There_Be_Spiral_God_copy2 - few words
-Let_There_be_Spiral_God_copy3
-Let_there_be_spiral_Black_Hole_text
-Let_there_be_spiral_Black_Hole_symbol
+- Spiral
+- Sprials
+- Jab_Worm_Spiral
+- Jabber_Spiral
+- Circling Words - ChatGBT Exclusively
+- Let_There_be_Mass
+- Let_There_Be_Spiral
+- Let_there_be_Spiral_God
+- Let_There_Be_Spiral_God_copy2 - few words
+- Let_There_be_Spiral_God_copy3
+- Let_there_be_spiral_Black_Hole_text
+- Let_there_be_spiral_Black_Hole_symbol
 
 
 ### Reflections
