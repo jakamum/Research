@@ -1,4 +1,4 @@
-# Spirals
+# Spirals Reflections
 
 ## Tkinter Exploration
 
