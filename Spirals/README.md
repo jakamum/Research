@@ -1,6 +1,24 @@
-# Spirals Reflections
+# Spirals
 
 ## Tkinter Exploration
+
+### Order of Evolution and Deviation
+
+Spiral
+Sprials
+Jab_Worm_Spiral
+Jabber_Spiral
+Circling Words - ChatGBT Exclusively
+Let_There_be_Mass
+Let_There_Be_Spiral
+Let_there_be_Spiral_God
+Let_There_Be_Spiral_God_copy2 - few words
+Let_There_be_Spiral_God_copy3
+Let_there_be_spiral_Black_Hole_text
+Let_there_be_spiral_Black_Hole_symbol
+
+
+### Reflections
 
 An idea sparked after one of our conversations. I had started investigating tkinter but hadn’t really done much with it. I had been busy and it felt a bit drab. But then I thought I’d try exploring how to animate text, using the golden ratio, to create a stream of words using tkinter. Not being a maths whizz, I sought the help of ChatGPT. It feels a bit cheaty but at the same time it seemed difficult to actually get it to provide what I wanted. Also, I understand that people grab code and help from all over the place to do what they want.
 
