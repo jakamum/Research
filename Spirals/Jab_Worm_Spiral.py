@@ -2,6 +2,8 @@ import tkinter as tk
 import math
 import time
 
+# Chat GBT code renamed by me as 'Animated Spiraling Text Worm'
+
 def spiral_text(canvas, text, x, y, radius, start_angle, font_size, font_type):
     angle = start_angle
     step = 0.05
