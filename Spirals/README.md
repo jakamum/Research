@@ -9,7 +9,7 @@
 - [Jab_Worm_Spiral](Jab_Worm_Spiral.py)
 - [Jabber_Spiral](Jabber_Spiral.py)
 - [Circling_Words](Circling_Words.py) - ChatGBT Exclusively
-- [Let_There_Be_Free_Spiral](Let_There_Be_Free _Spiral.py)
+- [Let_There_Be_Free_Spiral](Let_There_Be_Free_Spiral.py)
 - [Let_There_be_Mass](Let_There_be_Mass.py)
 - [Let_There_Be_Spiral](Let_There_Be_Spiral.py)
 - [Let_There_be_Spiral_God copy](Let_There_be_Spiral_God copy.py)
