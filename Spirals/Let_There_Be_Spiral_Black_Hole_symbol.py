@@ -2,7 +2,7 @@ import tkinter as tk
 import math
 import time
 
-# this version uses fewer words 
+# this version uses fewer words and a symbolic text along with different colours to the previous trials
 # commented area below for reference for myself
 # def spiral_text(canvas, text, x, y, radius, start_angle, font_size, font_type):
 #     # Set the initial angle
