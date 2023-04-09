@@ -1,6 +1,8 @@
 import tkinter as tk
 import math
 
+# from Chat GBT 
+# create class
 class SpiralText:
     def __init__(self, canvas, x, y, text, font, color, radius, speed):
         self.canvas = canvas
@@ -28,7 +30,7 @@ root.title("Circling Words")
 canvas = tk.Canvas(root, width=400, height=400)
 canvas.pack()
 
-# Create two spiraling text objects with different parameters
+# Create two spiraling text objects with different parameters - like size of font, radius of travelling circle and speed of travel
 text1 = SpiralText(canvas, 200, 200, "Hello, world!", ("Helvetica", 12), "red", 50, 0.1)
 text2 = SpiralText(canvas, 200, 200, "Goodbye, world!", ("Arial", 14), "blue", 100, -0.05)
 
