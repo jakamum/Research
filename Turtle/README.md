@@ -21,6 +21,6 @@ Here are the results:
 - [shapesturtle_expandshapes.py](shapesturtle_expandshapes.py)
 - [shapesturtle_amended.py](shapesturtle_amended.py)
 - [shapesturtle_increasingshapesrandom.py](shapesturtle_increasingshapesrandom.py)
-- 
+
  As resources or future reference, I invesigated a spiraling square [spiralsquare.py](spiralsquare.py) and [Increasing_Circles.py](Increasing_Circles.py) - link lost.
  To look into: https://www.tutorialsandyou.com/python/how-to-draw-spiral-square-and-star-in-python-turtle-12.html
