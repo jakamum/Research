@@ -29,4 +29,6 @@ The result so far is a series of files where you see an evolution of ideas as I 
 
 Each new version provoked a laugh as I watched the results unfold. I also tried different fonts and settled on a symbolic font for a while before having a go at a conventional font again. I’ve yet to fully explore colour but returned to a white background for one file and a black text (out of the three spirals) to give more contrast as the spiral transitioned into a central black hole - Let there be spiral Black Hole. In that particular case, the black hole then morphs again into another pattern standing out against the expanding black hole. My daughter, Kirsten commented about the black hole that it shoots out radiance. So the creation of the black hole transitioning into arcs of light seems fitting.
 
-I found myself attributing metaphorical meanings to some of the patterns that were created. I have tried looking into how to open more than one window at a time – or even having some kind of button to activate a second window but haven’t worked that out yet. Also, thinking about how to cause my spirals to contract after expanding.
+I found myself attributing metaphorical meanings to some of the patterns that were created. 
+
+I have tried looking into how to open more than one window at a time – or even having some kind of button to activate a second window but haven’t worked that out yet. Also, thinking about how to cause my spirals to contract after expanding.
