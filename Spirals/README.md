@@ -21,7 +21,7 @@
 
 ### Reflections
 
-An idea sparked after one of our conversations. I had started investigating tkinter but hadn’t really done much with it. I had been busy and it felt a bit drab. But then I thought I’d try exploring how to animate text, using the golden ratio, to create a stream of words using tkinter. Not being a maths whizz, I sought the help of ChatGPT. It feels a bit cheaty but at the same time it seemed difficult to actually get it to provide what I wanted. Also, I understand that people grab code and help from all over the place to do what they want.
+An idea sparked after one of our conversations. I had started investigating tkinter but hadn’t really done much with it. I had been busy and it felt a bit drab. But then I thought I’d try exploring how to animate text, using the golden ratio, to create a stream of words using tkinter. Not being a maths whizz, I sought the help of ChatGPT. It feels a bit cheaty but at the same time it seemed difficult to actually get it to provide what I wanted. Also, I understand that people grab code and help from all over the place to do what they want which assuaged my conscience somewhat.
 
 In this case, I didn’t have a really set idea of what I wanted to do but was happy to springboard off the broad concept of moving letters and see where it led. My initial thought was a flowing stream of letters moving or possibly spiraling around. At first I wanted to create separate spirals apart from each other and I have one like that, but I ended up replicating several spirals and contrasting the colours with each other.  
 
