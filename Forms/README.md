@@ -7,4 +7,4 @@ My early experiments were tedious and uninspiring but here they are:
 - [tkintertext.py](tkintertext.py)
 - [tkinterframe.py](tkinterframe.py)
 
-I then created [Interface.py](Interface.py) using https://www.javatpoint.com/simple-registration-form-using-tkinter-in-python as a guide.
+I then created [Interface.py](Interface.py) using https://www.javatpoint.com/simple-registration-form-using-tkinter-in-python as a guide which felt more like a step in the right direction.
