@@ -1,5 +1,6 @@
 import turtle
 
+# #commented out code snippet found that creates a circle
 # def drawCircle(radius,iterations, t): # returns tuples 
 #      coords = [] 
 #      for i in range(iterations): 
@@ -14,6 +15,7 @@ import turtle
 
 # t.shape('myCircle')
 
+# create shape class
 class Shape:
     def __init__(self, sides, length, color):
         self.sides = sides
@@ -27,7 +29,7 @@ class Shape:
             self.t.forward(self.length)
             self.t.right(360 / self.sides)
 
-
+# create child class 
 class Pentagon(Shape):
     def __init__(self, length, color):
         super().__init__(5, length, color)
