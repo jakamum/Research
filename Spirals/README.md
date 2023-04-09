@@ -13,7 +13,7 @@
 - [Let_There_Be_Mass](Let_There_Be_Mass.py)
 - [Let_There_Be_Spiral](Let_There_Be_Spiral.py)
 - [Let_There_Be_Spiral_God copy](Let_There_Be_Spiral_God copy.py)
-- [Let_There_Be_Spiral_God copy2](Let_There_Be_Spiral_God copy2.py) - few words
+- [Let_There_Be_Spiral_God copy2](Let_There_Be_Spiral_God copy2.py) - few words 
 - [Let_There_Be_Spiral_God copy3](Let_There_Be_Spiral_God copy3.py)
 - [Let_There_Be_Spiral_Black_Hole_text](Let_There_Be_Spiral_Black_Hole_text.py)
 - [Let_There_Be_Spiral_Black_Hole_symbol](Let_There_Be_Spiral_Black_Hole_symbol.py)
