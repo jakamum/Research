@@ -10,7 +10,7 @@
 - [Jabber_Spiral](Jabber_Spiral.py)
 - [Circling_Words](Circling_Words.py) - ChatGBT Exclusively
 - [Let_There_Be_Spiral](Let_There_Be_Spiral.py)
-- [Let_There_Be_Free_Spiral](Let_There_Be_Free _Spiral.py)
+- [Let_There_Be_Free_Spiral](Let_There_Be_Free_Spiral.py)
 - [Let_There_Be_Mass](Let_There_Be_Mass.py)
 - [Let_There_Be_Spiral_God1](Let_There_Be_Spiral_God copy.py)
 - [Let_There_Be_Spiral_God2](Let_There_Be_Spiral_God copy2.py) - few words 
