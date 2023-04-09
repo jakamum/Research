@@ -10,13 +10,13 @@
 - [Jabber_Spiral](Jabber_Spiral.py)
 - [Circling_Words](Circling_Words.py) - ChatGBT Exclusively
 - [Let_There_Be_Free_Spiral](Let_There_Be_Free_Spiral.py)
-- [Let_There_be_Mass](Let_There_be_Mass.py)
+- [Let_There_Be_Mass](Let_There_Be_Mass.py)
 - [Let_There_Be_Spiral](Let_There_Be_Spiral.py)
-- [Let_There_be_Spiral_God copy](Let_There_be_Spiral_God copy.py)
+- [Let_There_Be_Spiral_God copy](Let_There_Be_Spiral_God copy.py)
 - [Let_There_Be_Spiral_God copy2](Let_There_Be_Spiral_God copy2.py) - few words
-- [Let_There_be_Spiral_God copy3](Let_There_be_Spiral_God copy3.py)
-- [Let_There_be_spiral_Black_Hole_text](Let_There_be_spiral_Black_Hole_text.py)
-- [Let_There_be_spiral_Black_Hole_symbol](Let_There_be_spiral_Black_Hole_symbol.py)
+- [Let_There_Be_Spiral_God copy3](Let_There_Be_Spiral_God copy3.py)
+- [Let_There_Be_Spiral_Black_Hole_text](Let_There_Be_Spiral_Black_Hole_text.py)
+- [Let_There_Be_Spiral_Black_Hole_symbol](Let_There_Be_Spiral_Black_Hole_symbol.py)
 
 
 ### Reflections
