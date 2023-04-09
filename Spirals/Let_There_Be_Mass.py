@@ -2,7 +2,7 @@ import tkinter as tk
 import math
 import time
 
-
+# commented area below for reference for myself
 # def spiral_text(canvas, text, x, y, radius, start_angle, font_size, font_type):
 #     # Set the initial angle
 #     angle = start_angle
@@ -87,6 +87,8 @@ font_type = "Opus Special Extra Std"
 
 
 while True:
+    
+    # commented out delete to allow letters to continue to add on to the previous which leads to a mass of letters
     #canvas.delete("all")
     radius = spiral_text(canvas, text, x, y, radius, start_angle, font_size, font_type)
     start_angle += 0.1
