@@ -1,0 +1,6 @@
+2000,Holly,HOLLY,holly@gmail.com,Accounts Software not working,to be entered,Open
+2001,Curtis,CURTI,curtis@outlook.com,Monitor malfunction,Solved,Reopened
+2002,Hope,HOPES,hope.s@gmail.com,Access issues,to be entered,Open
+2003,Ben,BENJA,benj@gmail.com,Password Change,New password generated:BEBen,Closed
+2004,Kirsten,KIRST,kirstenrstrom@gmail.com,Glitch in the matrix,Neo has arrived,Closed
+2005,Jasmine,JASMI,womanonfyre@gmail.com,Pixellation issue,to be entered,Open
